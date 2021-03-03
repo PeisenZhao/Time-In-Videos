@@ -5,7 +5,7 @@ Some paper collections for videos with temporal problems
 
 - Temporal Action Localization/Detection: Given un untrimmed video as input 
 - 
-- ![](http://latex.codecogs.com/gif.latex?\\{v_{i}\}_{i=1}^{T}) 
+- ![](http://latex.codecogs.com/gif.latex?\\\{v_{i}\}_{i=1}^{T}) 
 
 
 
