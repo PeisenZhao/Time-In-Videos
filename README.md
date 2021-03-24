@@ -13,6 +13,7 @@ Some paper collections for videos with temporal problems
 
 ### Metrics: 
 - [mAP]()
+- [AR@AN]()
 
 ### Datasets:
 - [THUMOS14]()
@@ -20,7 +21,8 @@ Some paper collections for videos with temporal problems
 - [HACS]()
 
 ### Papers:
-- 
+- [CVPR2019][Multi-granularity Generator for Temporal Action Proposal](https://openaccess.thecvf.com/content_CVPR_2019/papers/Liu_Multi-Granularity_Generator_for_Temporal_Action_Proposal_CVPR_2019_paper.pdf)
+- []
 
 ## Temporal Action Segmentation
 
